@@ -3,7 +3,7 @@ HWR-Learning-Data-Sets
 
 Training Data Sets for Hand Writing Recognition.
 
-- S-expression
+[ S-expression ]
 -- Specialized for Zinnia_learn
 
 * learn_alphabet : Alphabet(A,a,B,b...) training data
